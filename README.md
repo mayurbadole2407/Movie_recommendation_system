@@ -8,4 +8,4 @@ Recommender systems produce a list of recommendations in any of the two ways –
 
 ###### Content-based filtering: Content-based filtering approaches uses a series of discrete characteristics of an item in order to recommend additional items with similar properties. Content-based filtering methods are totally based on a description of the item and a profile of the user’s preferences. It recommends items based on the user’s past preferences.
 
-![image](https://user-images.githubusercontent.com/57489494/147729928-d0be4271-328e-4457-b4f0-0681f63ae72f.png)
+
